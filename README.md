@@ -28,4 +28,7 @@ This task helped reinforce fundamental concepts in React development such as sta
 
 By the end of the task, we had a fully functional, real-time weather forecast tool that is easy to use and fast to deploy.
 
+output:
+
+![Image](https://github.com/user-attachments/assets/39f53bc8-793d-4911-bda1-934b36412bf2)
 
